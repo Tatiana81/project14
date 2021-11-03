@@ -15,7 +15,7 @@
         "jsonwebtoken": "^8.5.1",
         "mongoose": "^5.9.9",
         "nodemon": "^2.0.2",
-        "validator": "^13.0.0",
+        "validator": "^13.7.0",
         "webpack": "^4.43.0",
         "winston": "^3.2.1"
     },
